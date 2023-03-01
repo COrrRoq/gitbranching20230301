@@ -1,5 +1,5 @@
-This is the edit on the main branch.
+This should create a conflict
 
-This is the edit on the test brach.
+This is the edit on the test branch.
 
 Checking that I can merge
